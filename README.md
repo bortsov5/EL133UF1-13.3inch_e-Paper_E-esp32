@@ -1,1 +1,11 @@
-# EL133UF1-13.3inch_e-Paper_E-esp32
+# Загрузка данных на e-inc экран
+
+<img src="img\IMG_20250422_154721.jpg" alt="Пример изображения" width="600">
+
+## Visual Studio Code esp32 контроллер 
+
+## Delphi XE7 
+Для компиляции нужны компоненты DevExpress и Chromium
+
+Экран работает в режиме Standard 4-wire SPI. SPI Quad mode не имеет смысла, т.к. загрузка и так происходит за 5 секунд, а отрисовка экраном ~20 с )) 
+
