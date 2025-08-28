@@ -1,1 +1,3 @@
-
+ArduinoWebsockets   https://github.com/gilmaimon/ArduinoWebsockets
+JPEGDEC             https://github.com/bitbank2/JPEGDEC
+TJpg_Decoder        https://github.com/Bodmer/TJpg_Decoder
