@@ -1,6 +1,7 @@
 # Загрузка данных на e-inc экран
 
 <img src="img\IMG_20250422_154721.jpg" alt="Пример изображения" width="600">
+<img src="img\IMG_20250415_122926.jpg" alt="Пример изображения" width="600">
 
 ## Visual Studio Code esp32 контроллер 
 
